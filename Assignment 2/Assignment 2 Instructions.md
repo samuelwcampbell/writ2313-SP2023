@@ -32,7 +32,7 @@ You can invent other details about Charlie as needed for composing your letter, 
 - Submit your assignment using Github by doing the following:
     - Create a branch of this repository. Put your name somewhere in your branch.
     - Create a file called <your_name>.md (for example, sam_campbell.md). Make sure the file is in the folder called “Assignment 2.”
-        - A .md file is a markdown file, meaning that you will write markdown in order to add formatting like headings, paragraphs, links, and so on. Markdown is a very basic form of writing code.
+        - A .md file is a markdown file, meaning that you will write markdown in order to add formatting like headings, paragraphs, links, and so on. Markdown is a very basic form of writing code. This instructions document is written in markdown.
         - You can either compose your file as a markdown file from the outset, or you can write it in Google Docs or Microsoft Word, and then transfer it to Markdown later.
         - [Dillinger](https://dillinger.io/) is a tool that makes it trivially easy to write markdown. You can look at the markdown code on the left side and the rendered HTML output on the right side.
         - You can use any other tool or workflow you want to write your letter, as long as you are doing your own original work, and as long as you ultimately submit a .md file.
