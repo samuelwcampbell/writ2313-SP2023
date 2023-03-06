@@ -44,7 +44,6 @@ You can invent other details about Charlie as needed for composing your letter, 
     - Use Git to commit your changes to your branch and merge your branch into “main” using a pull request.
         - You learned how to do this in the [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) tutorial.
     - The .md file that has your name on it, is in the Assignment 2 folder, and is on the “main” branch is what will eventually be graded.
-    - 
 ## What I care about/What you’ll be graded on
 - Show that you have learned:
     - The topics you’re writing to Charlie about
