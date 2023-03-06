@@ -1,5 +1,6 @@
 # Assignment 2 Instructions
 **Due date: Monday, 2023-03-27 by the beginning of class.**
+
 For Assignment 2 of this class, you will compose an email to a friend.
 ## Audience
 Your friend “Charlie.” (Charlie is a “[persona](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/#content),” an archetypical user whose goals and characteristics represent the needs of a larger group of users.)
