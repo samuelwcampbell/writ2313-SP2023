@@ -12,6 +12,7 @@ After much hard work and several long years of undergraduate education, Charlie 
 
 You can invent other details about Charlie as needed for composing your letter, like the type of engineering work they will be doing, gender/pronouns, college they attended, employer, etc.
 ## Other requirements
+- When you start the assignment, set the status of your assigned issue on [the project board](https://github.com/users/samuelwcampbell/projects/2) to "In Progress" to indicate you've begun working on it.
 - Write 700 to 800 words
 - Pick 3 to 5 core ideas based on topics covered in class so far to convey to Charlie, such as the ones listed below, and write around 100 words per idea explaining why it’s important, how to successfully implement it, and so on. You can include examples or images as permitted by markdown (see next section).
 - You can look back at the agenda for topics we have covered so far this semester. Here are some suggestions:
@@ -41,6 +42,7 @@ You can invent other details about Charlie as needed for composing your letter, 
     - Use Git to commit your changes to your branch and merge your branch into “main” using a pull request.
         - You learned how to do this in the [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) tutorial.
     - The .md file that has your name on it, is in the Assignment 2 folder, and is on the “main” branch is what will eventually be graded.
+    - 
 ## What I care about/What you’ll be graded on
 - Show that you have learned:
     - The topics you’re writing to Charlie about
