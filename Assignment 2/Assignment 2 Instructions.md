@@ -6,8 +6,8 @@ Your friend “Charlie.” (Charlie is a “[persona](https://xd.adobe.com/ideas
 To advise your friend Charlie how to write well in a professional setting.
 ## Occasion
 ### Tl;dr
-Charlie, an engineer who is not a strong writer, needs some advice from you, their friend who they know can write well. 
-
+Charlie, an engineer who is not a strong writer, needs some advice from you, their friend who they know can write well because they're halfway through the class WRIT-2313 - Professional Writing at St. Edward's University. 
+### More details
 After much hard work and several long years of undergraduate education, Charlie has graduated with an engineering degree. Charlie is nervous about being able to write well in a professional setting.  Charlie avoided taking any non-required writing classes such as WRIT-2313 - Professional Writing, because Charlie wanted to prioritize the classes that enabled them to finish their engineering coursework. Charlie starts their new job at a prestigious company next month, where they will be an entry-level associate engineer. Charlie is asking you, their friend who took many writing classes, for a summary of how to write well in a professional setting.
 
 You can invent other details about Charlie as needed for composing your letter, like the type of engineering work they will be doing, gender/pronouns, college they attended, employer, etc.
