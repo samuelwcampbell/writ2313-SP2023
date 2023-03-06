@@ -30,6 +30,7 @@ You can invent other details about Charlie as needed for composing your letter, 
         - “Common grammar, punctuation, or sentence structure errors” and “writing for brevity” might be good candidates. These are important to professional writing but they are more appropriate topics to learn in Grammar or Revising & Editing classes than a Professional Writing class, so they have not made it onto our agenda.
 - Cite a reading on this topic in the letter - you can use phrasing like “You can read more about this idea [here](google.com).”
 ## Submission Instructions
+- **Due date: Monday, 2023-03-27 by the beginning of class.**
 - Submit your assignment using Github by doing the following:
     - Create a branch of this repository. Put your name somewhere in your branch.
     - Create a file called <your_name>.md (for example, sam_campbell.md). Make sure the file is in the folder called “Assignment 2.”
