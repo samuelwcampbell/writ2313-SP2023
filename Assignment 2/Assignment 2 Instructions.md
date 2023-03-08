@@ -16,7 +16,8 @@ You can invent other details about Charlie as needed for composing your letter, 
 ## Other requirements
 - When you start the assignment, set the status of your assigned issue on [the project board](https://github.com/users/samuelwcampbell/projects/2) to "In Progress" to indicate you've begun working on it.
 - Write 700 to 800 words
-- Pick 3 to 5 core ideas based on topics covered in class so far to convey to Charlie, such as the ones listed below, and write around 100 words per idea explaining why it’s important, how to successfully implement it, and so on. You can include examples or images as permitted by markdown (see next section).
+- Pick 3 to 5 core ideas based on topics covered in class so far to convey to Charlie, such as the ones listed below, and write **approximately** 100 words per idea explaining why it’s important, how to successfully implement it, and so on. You can include examples or images as permitted by markdown (see next section). 
+    - The 100-words-per-idea is more of a guideline than a hard-and-fast rule. The most important thing is that your letter is 700-800 words and you include 3-5 ideas covered in class.
 - You can look back at the agenda for topics we have covered so far this semester. Here are some suggestions:
     - Considering Audience, Purpose, and Occasion to make choices about writing
     - Document usability (such as headings, density, typeface choices, tl;dr and CRAP)
