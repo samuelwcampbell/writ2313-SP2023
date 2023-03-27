@@ -21,5 +21,6 @@ Congratulations on your recent graduation! I am so excited to learn that you hav
 I have no doubt you will excel in this role as I know you are a quick learner. I also recommend reading [this](https://www.indeed.com/career-advice/career-development/written-communication) article which provides important guidance about written communication. I hope you’ll find it useful. As I mentioned before, the more you practice, the more your writing will improve. I wish you the best of luck in this new role and as always, feel free to reach out if you need me.
   
 All my best,
+
 Erika. 
 
