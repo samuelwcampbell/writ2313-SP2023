@@ -1,0 +1,25 @@
+# Assignment 2
+## _Email to Charlie_
+
+Hi Charlie,
+
+Congratulations on your recent graduation! I am so excited to learn that you have landed a new job as a software engineer at H-E-B! I know you’ll do a fantastic job in your new role and I can’t wait to hear all about it! I appreciate you reaching out to ask for help with your writing skills. As you know, this semester I am taking a class at St. Edward’s with professor Campbell, WRIT 2313, Intro to Professional Writing. I have learned a lot during the course of the semester and I hope I can be helpful as you begin learning how to effectively communicate with your new team. I am including a few of the principles that I’ve learned this semester which I hope you can use as a guide to your workplace writing. As you begin to put these principles into practice, you’ll find that with time, your writing skills will greatly improve. 
+
+
+ 1. **Audience, Purpose, and Occasion*
+    
+    In your new role, you will likely have to use common forms of communication like email, Slack, status reports, research reports, and others. There are a few factors that drive all workplace writing but it is important to always begin with audience, purpose, and occasion. When identifying your audience, think of who the reader is. Knowing your audience can also help you better understand what your reader needs to know and how to best relay your message. Simply put, identifying your audience is key because this can determine the tone of your writing. The purpose will help you understand the reason for your communication and oftentimes, both audience and purpose determine the style and design of your communication. Once you have identified your audience and purpose, it's important to also know the occasion. The occasion will help you determine the why and should answer the following questions, why are you writing this? What is the goal of your writing? What do you hope for your audience to think, feel, or do after reading it? 
+    
+ 2. **How to write usable documentation**
+    
+    One thing I wish I knew when I started my professional career was the importance of strong writing and creating usable documents. As you read and write work documents, you will quickly realize that how a document is written and presented is essential to the reader. There are a few simple concepts that I find helpful when using workplace documents. All usable documentation should be searchable, scannable and readable. A searchable document is easy to navigate. Always be sure to use clear titles, headings, and include only relevant and useful information to the reader. I personally like to use bookmarks on Google Docs which I have found incredibly useful and time saving when I am searching a large document. A usable document is also scannable – meaning your eyes can easily find what you are looking for. Formatting your document and including bold text, headers, and page numbers, will help the reader quickly scan through your document and find the information they need. Lastly, all documents should be readable for the audience. Readability describes how simple it is for readers to comprehend a document. Readability is crucial because it determines how well a reader understands a piece and it can determine if a document will be used frequently or at all. To read more about usable documentation, check out [this](https://www.gamedeveloper.com/design/you-don-t-have-too-much-documentation---how-to-write-useable-documentation) article. 
+    
+ 3. **Ethics in the Workplace**
+ 
+    Lastly, I find it incredibly important to always keep in mind ethics and expectations for the workplace in your writing. I follow a few general guidelines for keeping all workplace communications respectful and appropriate. Keep all your communications in the workplace honeset, credible and reliable. This criteria applies to all types of communication, from short slack messages to huge presentations or deliverables created for external stakeholders. When working collaboratively or introducing new information, honest writing is essential. Credible writing is all about making your audience understand what you expect from them and why. You don't want to exaggerate or disparage sources of information or any of your peers. Reliable writing demonstrates that you have done your homework and are an expert on the subject. In other words, you can be trusted and have done the necessary research. I learned these principles over the years through personal experience and I wish someone had shared them with me sooner. 
+
+I have no doubt you will excel in this role as I know you are a quick learner. I also recommend reading [this](https://www.indeed.com/career-advice/career-development/written-communication) article which provides important guidance about written communication. I hope you’ll find it useful. As I mentioned before, the more you practice, the more your writing will improve. I wish you the best of luck in this new role and as always, feel free to reach out if you need me.
+  
+All my best,
+-Erika. 
+
