@@ -1,5 +1,5 @@
-#Assignment 2
-##Letter to Charlie 
+# Assignment 2
+## Letter to Charlie 
 
 Dear Charlie,
   Now you can see the consequences of not taking non-required writing courses. Don’t worry. I also have classes I didn’t do, such as Math. I can help you improve your professional writing skills. Writing is one of our greatest communication forms. In the case of professional writing, it helps communicate ideas to people inside and outside of a company. If you work in a big multinational company, your writing will be read by people on the other side of the world.
