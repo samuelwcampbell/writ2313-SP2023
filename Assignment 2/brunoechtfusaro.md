@@ -15,3 +15,7 @@ Moreover, the concepts of Quality Assurance Test and User Acceptance Test need t
   It’s important to rely on feedback from others once your writing is done. This will help you spot mistakes and receive constructive advice. One case in which there was no feedback was on PagerDuty letters to employees; avoiding errors in manuals that are hard to read is key in a professional setting. There is no better tool than going away from your writing for a day or two. 
   
   I hope this was helpful, and consider that as you continue to practice this type of writing and make mistakes, you will get better and better. Trial and error is the way. But always keep looking at the rhetorical situation, how easy to read your writing is, QAT, UAT, and feedback. 
+  
+  Best,
+  
+  Bruno
