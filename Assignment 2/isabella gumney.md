@@ -12,7 +12,9 @@ First, I will focus on the audience, purpose, and occasion. These are the things
   When writing acceptance criteria, think back to your audience, purpose, and occasion. The purpose of acceptance criteria is to make sure that users can get information they need from your writing. It is essentially a set of guidelines of what the writing needs to have in order to be valuable. In order to do this, you can use a user story. This is a one sentence prompt to make sure that you’re meeting the guidelines. The sentence is as follows, “As a ___ user, I want to ___, so that ___.” Using this fill in the blank structure helps put you in the user's point of view and make sure you’re writing helpful content for your audience, reassuring that you’re fulfilling the purpose of the piece, and that you’re writing for the correct occasion.
   
   Finally, to bring everything together, quality assurance tests help to double check that what you have written is helpful, clear, and usable. Do this by using the previously filled out acceptance criteria statements to guess what should happen when the “I want to ___,” is actually done. After you have your hypothesis, actually test what happens. Then, decide whether the task passes or fails. Make sure you’re logging these tests so you know what you have tested and what happens for future reference. 
+  
   Audience-purpose-occasion, document usability, acceptance criteria, and quality assurance testing are some of the most important things to think about when writing. By focusing on these four key elements, your work should improve significantly. Please let me know if you have any followup questions. 
 
 Sincerely, 
+
 Ella Gumney
