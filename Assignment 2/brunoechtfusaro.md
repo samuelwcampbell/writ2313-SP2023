@@ -17,4 +17,5 @@ Moreover, the concepts of Quality Assurance Test and User Acceptance Test need t
   I hope this was helpful, and consider that as you continue to practice this type of writing and make mistakes, you will get better and better. Trial and error is the way. But always keep looking at the rhetorical situation, how easy to read your writing is, QAT, UAT, and feedback. 
   
   Best,
+  
   Bruno
